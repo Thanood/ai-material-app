@@ -198,15 +198,7 @@
             "name": "aurelia-validation",
             "path": "../node_modules/aurelia-validation/dist/amd",
             "main": "aurelia-validation"
-          },
-          {
-            "name": "font-awesome",
-            "path": "../node_modules/font-awesome/",
-            "main": "",
-            "resources": [
-              "css/font-awesome.min.css"
-            ]
-          }                        
+          }              
         ]
       }
     ]
